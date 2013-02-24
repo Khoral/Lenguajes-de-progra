@@ -3,4 +3,4 @@ Lenguajes-de-progra
 
 Repositorio para el curso de LP
 
-Aqui se subiran los archivos que sean pertinentes.. (los impertinentes también, porque hay que travesear para aprender :D )
+Aqui se subiran los archivos que sean pertinentes... (los impertinentes también, porque hay que travesear para aprender :D )
